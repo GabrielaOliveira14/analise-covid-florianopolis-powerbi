@@ -3,14 +3,14 @@
  <p align="center">Analise dos Dados da Covid19 - Florianópolis </p>
 
 ### :computer: Sobre o projeto
-O projeto consiste em analisar os dados referente ao covid na cidade de Florianópolis e a partir dessas analises fazer criações de dashboads.
+O projeto consiste em analisar os dados referente ao covid na cidade de Florianópolis e a partir dessas análises fazer criações de dashboads.
 Os Dashboards criados, estão no arquivo com extensão .pbix, do qual é necessário ter a ferramenta do Power BI Desktop instalado, para que consiga utilizar o mesmo.
 ## :game_die: Dados
 
 O conjunto de dados que foi utilizado para criar a analise, está disponível no site da prefeitura de Florianópolis.
 </br>link: https://www.pmf.sc.gov.br/
 
-## :tools:  Ferramenta da Solução
+## 🛠 Ferramenta da Solução
 
 As analises foram desenvolvidas utilizando o Powerbi e linguagem DAX.
 </br>
